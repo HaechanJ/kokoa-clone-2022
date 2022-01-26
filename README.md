@@ -1,3 +1,5 @@
 # Kokoa Clone 2022 Update
 
-My first step.
+This is my first step.
+
+I don't giveup coding to be expert.
